@@ -1,0 +1,7 @@
+undetected_chromedriver
+setuptools
+webdriver_manager
+pandas
+openpyxl
+regex
+BeautifulSoup4
